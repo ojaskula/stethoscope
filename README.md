@@ -1,4 +1,4 @@
-# Digital stethoscope analog output analyzer
+# Digital stethoscope
 
 The program is responsible for analyzing the analog audio signal, calculating the BPM and displaying it on the OLED screen.
 It was tested on the Raspberry Pi Pico, using a built in ADC converter.
